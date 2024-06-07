@@ -8,13 +8,12 @@ To address this challenge, I utilized deep learning technologies, specifically L
 # Results
 LSTM and GRU Performance:
 <br>
-Root Mean Square Error (RMSE): 2.43<br>
-Variance Regression Score: 0.93<br>
-R² Score: 0.93<br>
+Root Mean Square Error (RMSE): 2.43 <br>
+Variance Regression Score: 0.93 <br>
+R² Score: 0.93 <br>
 Boosting Methods (XGBoost):<br>
-<br>
 Root Mean Square Error (RMSE): 3.69<br>
-Upon comparison, LSTM and GRU techniques provided better metrics than boosting methods.
+Upon comparison, LSTM and GRU techniques provided better metrics than boosting methods.<br>
 
 # Risk Analysis and EDA
 In addition to model development, I performed Exploratory Data Analysis (EDA) and descriptive statistics on stock price trends to capture the correlation between different stocks and assess the risk associated with each stock. All the graphs and inferences are included along with the code for better understanding.
