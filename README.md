@@ -7,18 +7,18 @@ To address this challenge, I utilized deep learning technologies, specifically L
 
 # Results
 LSTM and GRU Performance:
-
-Root Mean Square Error (RMSE): 2.43
-Variance Regression Score: 0.93
-R² Score: 0.93
-Boosting Methods (XGBoost):
-
-Root Mean Square Error (RMSE): 3.69
+<br>
+Root Mean Square Error (RMSE): 2.43<br>
+Variance Regression Score: 0.93<br>
+R² Score: 0.93<br>
+Boosting Methods (XGBoost):<br>
+<br>
+Root Mean Square Error (RMSE): 3.69<br>
 Upon comparison, LSTM and GRU techniques provided better metrics than boosting methods.
 
 # Risk Analysis and EDA
 In addition to model development, I performed Exploratory Data Analysis (EDA) and descriptive statistics on stock price trends to capture the correlation between different stocks and assess the risk associated with each stock. All the graphs and inferences are included along with the code for better understanding.
 
-Conclusion
+# Conclusion
 The deep learning techniques, particularly the combination of LSTM and GRU, showed superior performance in predicting stock prices, as evidenced by the lower RMSE and higher variance regression and R² scores compared to boosting methods like XGBoost. The EDA provided valuable insights into stock correlations and risk assessments, enhancing the overall understanding of stock market trends.
 
